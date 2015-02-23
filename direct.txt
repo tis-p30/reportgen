@@ -1,0 +1,10 @@
+Machine
+  Make usual article named "report.tex"
+  with 12pt font
+  there would be a lot of math
+  I want: russian babel, english babel 
+  Title is "Capacitor"
+  scheme is in "sch.png"
+  data is stored in param.csv
+  images are in img
+Human
